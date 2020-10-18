@@ -1,0 +1,104 @@
+[
+  {
+    "gp_name": "Austrian GP",
+    "date": "05/07/2020",
+    "circuit": "Red Bull Ring",
+    "country": "Austria"
+  },
+  {
+    "gp_name": "Styrian GP",
+    "date": "12/07/2020",
+    "circuit": "Red Bull Ring",
+    "country": "Austria"
+  },
+  {
+    "gp_name": "Hungarian GP",
+    "date": "17/07/2020",
+    "circuit": "Hungaronring",
+    "country": "Hungary"
+  },
+  {
+    "gp_name": "British GP",
+    "date": "02/08/2020",
+    "circuit": "Silverstone",
+    "country": "Great Britain"
+  },
+  {
+    "gp_name": "70th Anniversary GP",
+    "date": "09/08/2020",
+    "circuit": "Silverstone",
+    "country": "Great Britain"
+  },
+  {
+    "gp_name": "Spanish GP",
+    "date": "16/08/2020",
+    "circuit": "Circuit de Catalunya",
+    "country": "Spain"
+  },
+  {
+    "gp_name": "Belgian GP",
+    "date": "30/08/2020",
+    "circuit": "Spa-Francorchamps",
+    "country": "Great Britain"
+  },
+  {
+    "gp_name": "Italian GP",
+    "date": "06/09/2020",
+    "circuit": "Monza",
+    "country": "Italy"
+  },
+  {
+    "gp_name": "Ferrari 1000 GP",
+    "date": "13/09/2020",
+    "circuit": "Monza",
+    "country": "Italy"
+  },
+  {
+    "gp_name": "Russian GP",
+    "date": "27/09/2020",
+    "circuit": "Sochi Autodrom",
+    "country": "Russia"
+  },
+  {
+    "gp_name": "Eifel GP",
+    "date": "11/10/2020",
+    "circuit": "Nürburgring",
+    "country": "Germany"
+  },
+  {
+    "gp_name": "Portugal GP",
+    "date": "25/10/2020",
+    "circuit": "Estoril",
+    "country": "Portugal"
+  },
+  {
+    "gp_name": "Emilia Romagna GP",
+    "date": "01/11/2020",
+    "circuit": "Autodromo Enzo e Dino Ferrari",
+    "country": "Italy"
+  },
+  {
+    "gp_name": "Turkey GP",
+    "date": "15/11/2020",
+    "circuit": "Istanbul Park",
+    "country": "Turkey"
+  },
+  {
+    "gp_name": "Bahrain GP",
+    "date": "29/11/2020",
+    "circuit": "Bahrain International Circuit",
+    "country": "Bahrain"
+  },
+  {
+    "gp_name": "Shakir GP",
+    "date": "06/12/2020",
+    "circuit": "Bahrain International Circuit - Outer Track",
+    "country": "Bahrain"
+  },
+  {
+    "gp_name": "Abu Dhabi GP",
+    "date": "13/12/2020",
+    "circuit": "Yas Marina",
+    "country": "Abu Dhabi"
+  }
+]
